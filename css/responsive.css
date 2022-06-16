@@ -1,0 +1,40 @@
+@media screen and (max-width: 1280px) {
+	body {
+		background: url(../images/undraw.png);
+	}
+	.game-world {
+		display: none;
+	}
+}
+@media screen and (max-width: 548px) {
+	.welcome {
+		width: 280px;
+	}
+	.home-button{
+		width: 140px;
+		height: 50px;
+	}
+}
+@media screen and (max-width: 420px) {
+	.welcome {
+		width: 280px;
+	}
+	.home-button{
+		width: 110px;
+		height: 50px;
+	}
+	header {
+		flex-direction: column;
+	}
+
+}
+@media screen and (max-width: 320px) {
+	.welcome {
+		width: 210px;
+	}
+	.home-button{
+		width: 90px;
+		height: 50px;
+	}
+
+}
