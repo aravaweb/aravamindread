@@ -506,3 +506,59 @@ section#resultsec {
   margin-left: 0px;
 }
 }
+#feedback-card {
+	box-shadow:-1px 1px 20px 2px rgb(217 53 197);
+	height: 517px;
+	border-radius: 20px;
+}
+form {
+	margin-left: 10px;
+}
+.fd-name {
+	font-size: 20px;
+	margin-right: 20px;
+}
+.fd-rate {
+	font-size: 20px;
+	margin-right: 20px;
+}
+.fd-input {
+	font-size: 13px;
+	width: 200px;
+	height: 30px;
+	border-radius: 20px;
+}
+.forms {
+	display: inline-flex;
+}
+.feedback {
+	font-size: 40px;
+	color: #787cc3;
+}
+.rate {
+	font-size: 16px;
+}
+select {
+	border-radius: 20px;
+	height: 20px;
+	width: 100px;
+}
+.submit-btm {
+	background: #44f372;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 30px;
+	margin-right: 30px;
+	border-color: transparent;
+}
+.skip-btn {
+	background: #FD73BA;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 30px;
+	border-color: transparent;
+}
